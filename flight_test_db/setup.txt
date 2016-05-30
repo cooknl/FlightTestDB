@@ -1,0 +1,16 @@
+#setup.txt
+
+1. Install Python 2.*
+    https://www.python.org/downloads/
+
+2. Install Django
+    https://www.djangoproject.com/download/
+    Recommend installing with pip
+
+3. Open a shell for command line inputs
+    Navigate to ~\flight_test_db, where manage.py lives
+    Enter "python manage.py runserver"
+
+4. Open a browser and enter IP 127.0.0.1:8000\admin
+    Username: cooks
+    Password: ihatepasswords
